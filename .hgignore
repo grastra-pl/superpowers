@@ -1,0 +1,3 @@
+syntax: glob
+members.json
+internals.json
